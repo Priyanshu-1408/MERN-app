@@ -5,9 +5,9 @@ This is a full-stack MERN application featuring a React frontend (Vite) and Node
 ---
 
 ## 🚀 Live Demo & Links
-- **Public GitHub Repository:** `[Paste your GitHub URL Here]`
-- **Deployed Frontend (Vercel):** `[Paste your Vercel URL Here]`
-- **Deployed Backend API (Render):** `[Paste your Render URL Here]`
+- **Public GitHub Repository:** [https://github.com/Priyanshu-1408/MERN-app](https://github.com/Priyanshu-1408/MERN-app)
+- **Deployed Frontend (Vercel):** [https://mern-app-one-delta.vercel.app](https://mern-app-one-delta.vercel.app)
+- **Deployed Backend API (Render):** [https://mern-app-s1i7.onrender.com](https://mern-app-s1i7.onrender.com)
 
 ---
 
